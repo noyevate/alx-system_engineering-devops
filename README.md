@@ -1,1 +1,1 @@
-this repo consit of the current working directory
+script that prints the absolute pathname of the current working directory
